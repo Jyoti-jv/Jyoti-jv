@@ -22,6 +22,7 @@ Software Developer working on mobile application development using React Native.
 ---
 
 ## Work Focus
+- Web Development  
 - Mobile Application Development  
 - API Integration  
 - Code Optimization  
