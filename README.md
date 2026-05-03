@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**Jyoti-jv/Jyoti-jv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Jyoti Vajpayee
 
-Here are some ideas to get you started:
+*Software Developer | React Native Developer*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+Software Developer working on mobile application development using React Native. Experienced in JavaScript, frontend development, and API integration.
+
+---
+
+## Technical Skills
+- JavaScript  
+- React & React Native  
+- HTML & CSS  
+- Git & GitHub  
+- Python (Basic)  
+- SQL & MySQL  
+
+---
+
+## Work Focus
+- Mobile Application Development  
+- API Integration  
+- Code Optimization  
+
+---
+
+## Contact
+- Email: jyoti.vajpaee@arsoftconsulting.com
